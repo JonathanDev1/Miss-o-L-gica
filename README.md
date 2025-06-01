@@ -15,7 +15,7 @@ Eles precisam que as instruções sejam simples e exatas, como uma receita de bo
 Aprender a lógica ajuda você a resolver problemas, pensar em soluções e programar qualquer linguagem.
 
 Conceitos básicos da lógica de programação
-1. Algoritmo
+# 1. Algoritmo
 É a sequência de passos para resolver um problema.
 
 Exemplo da missão espacial:
