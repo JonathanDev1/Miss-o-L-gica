@@ -7,8 +7,8 @@ Aluno: Jonathan Alves de Menezes (RGM:36290840)
 
 
 O que é Lógica de Programação?
-A lógica de programação é a forma de pensar para dar instruções a um computador. Pense assim:
 
+A lógica de programação é a forma de pensar para dar instruções a um computador. Pense assim:
 Você é o comandante da nave espacial e precisa dizer exatamente o que a nave deve fazer para chegar ao planeta Algoritmus. Para isso, você cria uma lista de passos, em ordem, para que a nave execute.
 Esses passos, organizados de maneira clara, são chamados de algoritmos.
 Por que a lógica é importante?
