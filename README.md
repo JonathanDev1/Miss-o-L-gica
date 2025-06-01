@@ -1,4 +1,9 @@
+
 # Missão espacial: Introdução à Lógica de Programação com Python
+
+Curso: Analise e desenvolvimento de sistemas
+Aluno: Jonathan Alves de Menezes (RGM:36290840) 
+
 
 O que é Lógica de Programação?
 A lógica de programação é a forma de pensar para dar instruções a um computador. Pense assim:
@@ -46,3 +51,9 @@ Permite repetir uma ação várias vezes, sem precisar escrever várias vezes a 
 Exemplo: contagem regressiva antes de decolar.
 
 # Vamos ver tudo isso em Python?
+https://colab.research.google.com/drive/1acAq78llqyom9nFBRgt0m5SZARgQC-e_?usp=sharing
+
+# Referência do Material
+MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. São Paulo: Érica, 2016.
+
+GOMES, José Carlos; LOPES, Carla Vieira. Introdução à Programação. 2020. Disponível em: https://www.ufjf.br/edufjf/files/2020/07/Livro_IntroducaoProgramacao.pdf
